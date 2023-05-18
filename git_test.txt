@@ -1,4 +1,4 @@
 gitの演習
 基本的なワークフローを学びます
 ・git add2
-・git commint
+・git commint2
