@@ -3,3 +3,4 @@ gitの演習
 ・git add2
 ・git commint2
 ・git rm
+・git status
