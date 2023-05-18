@@ -4,3 +4,4 @@ gitの演習
 ・git commint2
 ・git rm
 ・git status
+・git diff
